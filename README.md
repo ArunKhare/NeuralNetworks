@@ -9,3 +9,8 @@ touch filename
 ..........
 
 conda create --prefix ./env python=3.9 -y
+
+mkdir Research_env
+
+## open jupyter notebook
+jupyter-notebook
